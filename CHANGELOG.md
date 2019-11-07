@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v2.0.1-preview.2] - 2019-11-08
+- release as pfc package
+
 ## [v2.0.1] - 2019-07-12
 ### Fixed
 - Fixed compilation errors in Unity 2018
